@@ -1,7 +1,14 @@
 
+
 # Personal Portfolio
 
 > This project helps to know how to build a portfolio website and also implement best practices.
+
+-Video [@video](https://clipchamp.com/watch/rtrADCfC5DU)
+
+
+https://github.com/avinash1413/my-portfolio/assets/116270980/2c7cd982-f44f-4841-a14e-e56f8a6113fa
+
 
 
 The objectives of this project are to:
@@ -41,7 +48,7 @@ To clone the repository run the command `git clone https://github.com/avinash141
 👤 **Avinash**
 
 - GitHub [@githubhandle](https://github.com/avinash1413)
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/avi-nash-29421a220/)
+- LinkedIn [@LinkedIn](https://www.linkedin.com/in/avi-nash-29421a220/)
 
 
 ## Show your support
