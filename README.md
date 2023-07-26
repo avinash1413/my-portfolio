@@ -34,14 +34,14 @@ To get a local copy up and running, you can follow these simple example steps:
 
 ### Setup
 
-To clone the repository run the command `git clone https://github.com/Mutai-Gilbert/Responsive-Personal-Porfolio.git`
+To clone the repository run the command `git clone https://github.com/avinash1413/my-portfolio.git`
 
 ## Authors
 
 👤 **Avinash**
 
-- GitHub: [@githubhandle](https://github.com/avinash1413)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/avi-nash-29421a220/)
+- GitHub [@githubhandle](https://github.com/avinash1413)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/avi-nash-29421a220/)
 
 
 ## Show your support
