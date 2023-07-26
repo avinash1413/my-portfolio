@@ -4,7 +4,6 @@
 
 > This project helps to know how to build a portfolio website and also implement best practices.
 
--Video [@video](https://clipchamp.com/watch/rtrADCfC5DU)
 
 
 https://github.com/avinash1413/my-portfolio/assets/116270980/2c7cd982-f44f-4841-a14e-e56f8a6113fa
